@@ -1,0 +1,38 @@
+﻿  FastNoise.cpp
+  Handler.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(32,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(33,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(34,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(95,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(99,23): warning C4305: '-=': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(32,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(33,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(34,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.h(35,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Particle.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Particle.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+  Renderer.cpp
+  RenderObject.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1585 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSC3223Tutorials.vcxproj -> C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\Win32\Release\ParticleSimulation.exe

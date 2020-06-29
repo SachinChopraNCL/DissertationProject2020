@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSC3223Tutorials.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Handler.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(15,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(52,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(95,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(99,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(110,53): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(110,44): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(110,35): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(111,63): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(111,53): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(111,39): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(112,66): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(112,55): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Handler.cpp(112,40): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+  Main.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Spawner.cpp
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.cpp(32,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.cpp(33,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\CSC3223\Dissertation-Project2020\Spawner.cpp(34,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  CSC3223Tutorials.vcxproj -> C:\Users\Sachin Chopra\Desktop\ParticleSimulationV1.2\Win32\Debug\ParticleSimulation.exe
